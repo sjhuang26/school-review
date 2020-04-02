@@ -13,11 +13,13 @@ Peace-keeping measures [LIST 5]
 
 Treaty of Versailles
 Wilson's Fourteen Points
-League of Nations (US refuses to join because they don't want to be dragged into another war)
+League of Nations
 Washington Naval Conferences
 Kellog-Briand Pact
 
-Bolshevik Revolution (1917)			Communist takeover of Russia; increased nativism leading to the Red Scare; resulting in immigration quotas from Europe; Sacco and Vanzetti trial (immigrant anarchists); Ku Klux Klan
+Why does the US refuse to join the League of Nations?			they don't want to be dragged into another world war
+
+Bolshevik Revolution (1917)			Russia is taken over by a Communist government; leads to Red Scare in the US (severe immigration quotas from Europe, Sacco and Vanzetti Trial (widely regarded as biased against the immigrants))
 
 18th amendment			Prohibition begun
 19th amendment			women's suffrage
@@ -29,15 +31,13 @@ Seneca Falls Convention
 Susan B. Anthony
 Elizabeth Cady Stanton
 
-Roaring Twenties			marked by changes in moral values; exemp. by Scopes Trial: John Scopes was convicted in 1925 for teaching about evolution (because it conflicted with what the Bible says).
+Roaring Twenties			marked by a questioning of traditional moral values; exemp. by Scopes Trial: John Scopes was convicted in 1925 for teaching about evolution (because it conflicted with what the Bible says).
 
 Harlem Renaissance			people like Duke Ellington celebrating African American culture into the mainstream
 
 Flappers-			Women during the 1920’s that rejected traditional feminine roles
-Automobiles, radio, and motion pictures			homogenizing effect on American culture
-
 Henry Ford-			efficient assembly line system for Automobiles
-consumerism			rapid economic growth; credit purchases; Installment buying
+consumerism			rapid economic growth; credit purchases esp. Installment buying (e.g., automobiles)
 
 supporters of free enterprise during this time [LIST 2]
 
@@ -46,32 +46,31 @@ Calvin Coolidge
 
 problems for farmers [LIST 2]
 
-overseas demand for crops cratered after WWI, leading to small family farm disaster
-Dust Bowl- Caused by over-farming and severe drought (The Great Plains) leading to westward migration
+after WW1 -- overseas demand for crops cratered
+Dust Bowl (Great Plains) -- over-farming + severe drought led to more westward migration
 
 ## The Great Depression
 
-causes			Stock Market Crash of 1929: speculative stock buying (buying stocks on credit); overproduction; wages lagged behind the cost of living; globalized economy (if one economy fails they all fail)
-Herbert Hoover			Trickle Down Economics (big business + give them tons of capital = good for everyone); obviously this does not directly help the neediest people; refused to give direct payments to unemployed because he thought it would make them lazy
-• Hoovervilles-			 Hoover was blamed for the suffering of the poor, living in Hooverville communities.
-• Bonus Army-			 WWI veterans march on Washington in protest, demanding to be paid for their services. Demonstrated the growing discontent with Hoover.
+causes			speculative stock buying (buying stocks on credit) >> severe stock market crash; overproduction
+worsening factors			wages lagged behind the cost of living; economy was globalized (if one country fails, they all fail)
 
-FDR election			People wanted the government to take active role in solving economic problems.
-• Good Neighbor Policy-			cut U.S. military intervention in Latin America. Designed to improve relations with Latin America.
+Issues during Herbert Hoover's presidency:
 
-New Deal [LIST]
+Hoover ideology			trickle down economics: the belief that giving direct payments to the poor would make them lazier, and it was more productive to give capital to big business, in hopes that the benefits would "trickle down" to everyone
+Hoovervilles-			 Hoover was blamed for the suffering of the poor, living in Hooverville communities.
+Bonus Army-			 a group of WWI veterans marching in protest
+FDR election			Shows that people disliked the Hoover ideology and wanted the government to take a more active role in solving problems
+Good Neighbor Policy-			reduced U.S. military in Latin America; designed to improve relations
 
-give work to the unemployed by creating public works jobs
-social welfare
+New Deal tactics [LIST 2]
 
-Agricultural Adjustment Acts-			a strategy to reduce farm output to adjust crop prices
-Tennessee Valley Authority (TVA)			Created to improve economic conditions in a poor rural region.
+give work to the unemployed by creating public works jobs (Works Progress Administration (WPA); Civilian Conservation Corps (CCC))
+a strong social welfare system
+
+Agricultural Adjustment Acts-			a strategy to boost crop prices by making farms reduce their output
+Tennessee Valley Authority (TVA)			improved economic conditions in a poor rural region.
 Social Security Act 1935-			financial support to the elderly and the retired
-Federal Deposit Insurance Corporation (FDIC)-			government insures the money you have in the bank so that you can’t lose it if the bank fails
-WPA
-Civilian Conservation Corps (CCC)
+Federal Deposit Insurance Corporation (FDIC)-			restored public confidence in banks; the government insures the customer's money in case of bank failure
 Securities and Exchange Commission (SEC)-			regulation of banks/stock market; disallow some stock speculation
-• National Labor Relations Act (Wagner Act)-			Labor movement grew rapidly during the 1930’s once the right to organize was protected by law.
-
+• National Labor Relations Act (Wagner Act)-			legalized collective bargaining which was very good for unions
 New Deal CONS			use of deficit spending that raised national debt; "many historians say that WWII ended the Great Depression, rather than the New Deal"
-New Deal PROS			showed the benefits of government intervention in economic and social issues
