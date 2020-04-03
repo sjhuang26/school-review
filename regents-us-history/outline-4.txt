@@ -4,13 +4,17 @@ Secondary: https://www.britannica.com/event/Granger-movement
 
 ## Economic progressive reform
 
-Interstate Commerce Act (1887)-			 Created the Interstate Commerce Commission, the first federal agency for economic regulation.
-Sherman Antitrust Act (1890)-			limit the power of monopolies.
-Clayton Antitrust Act –			Formally legalized unions by saying that they aren't conspiracies in restraint of trade.
-Gibbons v. Ogden (1824)-			allowed federal regulation of interstate commerce
+Topic: federal regulation of interstate commerce
+Interstate Commerce Act / Interstate Commerce Commission (1887)-			 the first federal agency for economic regulation.
+Gibbons v. Ogden (1824)-			expanded the federal regulation of interstate commerce
 Wabash v. Illinois			severely limit the power of states to regulate interstate commerce
+
+Topic: monopolies
+Sherman Antitrust Act (1890)-			limit the power of monopolies.
+Clayton Antitrust Act –			Formally legalized unions by saying that they aren't "conspiracies in restraint of trade."
+
 Federal Reserve Act (1913)			created the Federal Reserve, a steady base of money and credit, pushed by Woodrow Wilson
-16th amendment			progressive income tax: people with higher incomes are given a higher percent rate of tax
+16th amendment			progressive income tax: had a variable percent of income tax (i.e., wealthy people pay a higher PERCENT of tax)
 
 ## Progressive Era (Late 1800’s -1917)
 
@@ -18,15 +22,12 @@ political ideas in the progressive movement [LIST 4]
 
 initiative/referendum
 recall
-direct primary (political parties use public vote to choose presidential candidates)
+direct primary (i.e., political parties use public vote to choose presidential candidates)
 secret ballot
 
 Jane Adams-			settlement houses to assist the poor
-Robert M. LaFollette-			Progressive reformer who attempted to start a civil rights movement for African Americans
-WEB Du Bois-			Formed the National Association for the Advancement of Colored People (NAACP) in order to end segregation
-Booker T. Washington-			believed that African Americans could raise their social status using education; founded a vocational training school
-
-Compare WEB Du Bois with Booker T. Washington?
+Robert M. LaFollette-			civil rights for African Americans
+Compare WEB Du Bois with Booker T. Washington?			WEB Du Bois founded the National Association for the Advancement of Colored People (NAACP) as a measure to combat segregation. Booker T. Washington had a wishy-washy stance on whether segregation was good or bad. Rather, he wanted African Americans to rise in economic status through vocational training. To that end, he built a vocational training school.
 
 17th amendment			Direct Election of Senators
 reform of spoils System			Civil Service Exams
@@ -72,9 +73,9 @@ significant US annexations		Hawaii and Philippines
 
 Spanish American War- (1898) causes and effects [LIST 3]
 
-yellow journalism
-sinking of the US battleship Maine in Havana Harbor
-result: building of the Panama Canal 
+yellow journalism caused			unfounded accusations that the Spanish sunk the US battleship Maine in Havana Harbor (it was an accident!)
+
+Why was the Panama Canal built?
 
 Woodrow Wilson's New Freedom?
 

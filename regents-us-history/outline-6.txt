@@ -17,20 +17,12 @@ why did the US enter WW2?			Pearl Habor
 Why was D-Day a big deal?			opened the West for Germany to deal with (not just the East!)
 why did the U.S. and Soviet Union ally?		despite being enemies, they allied because it would help them defeat Germany
 
-The U.S. Home-Front During World War II
-
-Rosie the Riveter etc.			increase women recruitment in wartime industries in particular; however, at the end of the war, many women lost their jobs
-
-GI Bill (1944)-			for war veterans, education (free college) and housing
+Topic: Japan and WW2
+WW2 and Japanese internment			Korematsu v. U.S. "national security threat" justification
 Manhattan Project-			U.S. project to develop an atomic bomb.
-Korematsu v. U.S.-			justified internment camps for Japanese Americans because of national security threats
-
-Harry Truman
+why did Truman use atomic bombs against Japan?			quickly end war >> save more lives overall
 
 Fair Deal?
-
-why did Truman use atomic bombs?			thought that the war would end quickly; saves American lives
-Truman Doctrine- 			Originally designed to contain communism by giving aid to Greece and Turkey (TODO: and Eisenhower?)
 
 End of World War II/ Impact of World War II
 
@@ -40,25 +32,33 @@ End of World War II/ Impact of World War II
 • U.S. foreign policy changed following WWII as the U.S. became more involved in world affairs.
 economic impact on US			expansion of middle class (more personal income!); war bonds for funding the war increase US national debt; the war was not fought on U.S. soil, so U.S. cities and factories were not destroyed, unlike Europe and Japan
 
-1950s society [LIST 2]
+## Society in the 1950s
 
-space race
+Long-term social effects of WW2 [LIST 2]
 
-suburbanization			white, middle-class Americans moving from cities to the suburbs; increased by Interstate Highway Act
-baby boom			increase in marriage and population burst (soldiers returned home from war!); clear increase in consumerism
-Cold War(1946-1989) cause			Soviet domination of Eastern Europe (after WWII, the Soviets did not withdraw their troops from Eastern Europe), leading to the Iron Curtain
+Ads like Rosie the Riveter inspired many women to enter the factories, but after the war, women frequently lost their jobs
+GI Bill (1944): basically gave free college to war veterans, leading to an education boom
+
+Social changes in the 1950s [LIST 3]
+
+suburbanization: white, middle-class Americans moving from cities to the suburbs; increased by Interstate Highway Act
+baby boom: increase in marriage and population burst (soldiers returned home from war!)
+clear increase in consumerism
+
+## Cold War (1946-1989) and other wars
+
+Cold War cause			the US was increasingly afraid of the Soviet military domination of Eastern Europe
+Iron Curtain-			a sharp geopolitical divide between West Europe and East Europe
 North Atlantic Treaty Organization (NATO)-			Formed in 1949 in order to protect Western Europe from the Soviet Union
-• Sputnik Launch(1957)- 			the Soviet Union launches the first satellite into space, making Americans afraid that the Soviets would have technological superiority; space race
-
-containment			"contain" Communist influence -- primarily, make sure it doesn't spread even further; Domino Theory -- Idea that if one country falls to communism, others around it will as well
+What launched the space race?			Soviet Union Sputnik Launch(1957) (first satellite into space)
+What is the name of the major space race program?			New Frontier
+Why was containment seen as vital?			Domino Theory; if one country falls to communism, others around it will as well (i.e., therefore, the US should try to disallow communism from spreading without worrying about completely extinguishing it)
 
 Truman Doctrine-			containment; Greece and Turkey
 Eisenhower Doctrine-			containment; Middle East
 Berlin Airlift- 			Soviet forces cut off Berlin from the Western world, causing the U.S. to airlift supplies to West Berlin.
 Fall of the Berlin Wall		most closely associated with the end of the Cold War.
-• Senator Joseph McCarthy-			 Led a “witch hunt” for Communist spies in the U.S. government during the early 1950’s.
-
-McCarthyism			the high-profile exposures of Communist spies (e.g, execution of the Rosenburgs) leads to widespread unfounded accusations (not enough evidence) towards government officials
+McCarthyism			the high-profile exposures of Communist spies (e.g, execution of the Rosenburgs) leads to widespread unfounded accusations (not enough evidence) towards government officials; refers to Senator Joseph McCarthy who was infamous for leading such efforts
 
 Korean War			a civil war between North Korea (China, Soviet Union supported) vs. South Korea (US and United Nations supported). Result: no side was able to conquer the other, so Korea is still split today.
 Vietnam War-			highly controversial (widely protested in the US as unjust; Berkeley demonstrations; Kent State protest) war that the US actually lost -- trying to stop Vietnam from turning communist. Results in a reluctance to enter future wars.
@@ -67,12 +67,12 @@ Douglas MacArthur?
 
 Southeast Asia/Indochina?
 
-26th amendment			lowered the voting age to 18; inspired by the many 18 year olds that participated in the Vietnam War (if they're old enough to go to war, they should be able to vote)
-War Powers Act			limited the ability of the president to send troops abroad (i.e., a greater degree of Congress approval)
+26th amendment			The voting age is dropped to 18 years old (if they're old enough to go to war, they should be able to vote! inspired by the 18 year olds drafted into the Vietnam War)
+War Powers Act			(rebalancing of checks-balances!) limited the ability of the president to send troops abroad (i.e., a greater degree of Congress approval)
 
 President Dwight D. Eisenhower
 
-“military-industrial complex”			influence of defense contractors on Congress
+“military-industrial complex”			undue influence of defense contractors on Congress
 
 President John F. Kennedy & Cold War [LIST 3]
 
