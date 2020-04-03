@@ -2,20 +2,16 @@
 
 ## Geography
 
-Atlantic and Pacific Oceans most influenced 			U.S. foreign policy throughout the 18th, 19th, and 20th century.
-Oceans on the east & west coasts helped the U.S. 			maintain its foreign policy of neutrality during much of the
-1800s.
-Appalachian Mountains 			served as [a natural barrier] for British colonial settlements prior to the Revolutionary War.
-Proclamation Line of 1763- 			... in order to avoid conflicts between American colonists and Native Americans.
+Atlantic and Pacific Oceans most influenced 			anything related to US neutrality
+Appalachian Mountains 			Very hard to cross for early colonists, but some were eventually motivated to cross, resulting in the Proclamation Line of 1763, which the British government basically made this illegal (to avoid Indian conflicts)
 Early colonial settlements were similar in that 			each developed near the coast line. EX) Jamestown (1607) Plymouth (1620) New Amsterdam (1625)
-New England colonies were influenced by [PLUS]			natural harbors contributing to the development of commerce, abundant forests,
-[MINUS]			rocky soil, short growing season
-Geographic factors influenced the economy of New England by promoting 			the growth of trade, manufacturing, and commercial fishing
+New England colonies were influenced by [PLUS]			natural harbors contributing to the development of commerce, abundant forests
+[MINUS]			(agricultural!) rocky soil, short growing season
+Geographic factors influenced the economy of New England by promoting 			a trade and manufacturing based industry (+fishing, +forestry)
 Southern Colonies- [PLUS]			fertile land and a long growing season
-agricultural products processed in the 			North and in Europe.
-Developed 			plantations (large farms that used slave labor).
-Great Plains 			The relatively flat ... region of the U.S. between the Mississippi River and the Rocky
-Mountains, known for grain crops (aka food). 
+The South exported agricultural products to the 			North and in Europe.
+Developed 			plantations (i.e., large farms that used slave labor).
+Great Plains 			The relatively flat ... region of the U.S. between the Mississippi River and the Rocky Mountains, known for grain crops (aka food). 
 
 ## Colonial Period
 
@@ -25,18 +21,18 @@ Partial sources
 - https://history.state.gov/milestones/1750-1775/albany-plan
 
 • Triangular Trade			increased importation of enslaved Africans to the Western Hemisphere
-• British Mercantilism			...British buy raw materials from the colonies and sell them finished products; Limited manufacturing and trade
-• Salutary Neglect- 			Led to the development of independent colonial trade practices. {QUOTE Salutary neglect was an unofficial British policy of non-enforcement of trade regulations on their American colonies during the 17th and 18th centuries. The purpose was to maximize economic output amongst the colonists while maintain some form of control.}
-• French and Indian War-			 Caused by disputed land claims in the Ohio River valley between the French and the British (the French and Indians were on the same side); Britain war debt => taxing the colonies => end of salutary neglect
+• British Mercantilism			The British purchased the raw materials and sold the products back to the colonies. They used legislation to prevent colonists from circumventing such "middleman" systems, severely limiting American trade.
+• Salutary Neglect- 			Britain gives significant freedom to colonial trade practices, often de facto (they say it's illegal but they don't enforce it!); French and Indian War => Britain war debt => taxing the colonies => end of salutary neglect.
+• French and Indian War-			The two sides were British + colonies vs. Indians + French. Disputed land in the Ohio River valley.
 early attempts at democracy:			Virginia House of Burgesses, Mayflower Compact, Town Hall Meetings
-Albany Plan of Union:			the first real attempt (failed) to unify the colonies under a central government while remaining under the rule of Britain
+Albany Plan of Union			the (failed!) "Join or Die" attempt to centralize the colonial government as a united set of colonies (but still under the British!)
 
 ## Independence Movement/Revolutionary War (American Revolution)
 
 The Declaration of Independence described			colonial grievances against British rule.
-Written by			Thomas Jefferson, who was inspired by the ideas of John Locke regarding the natural rights of the people. The government exists solely to protect the natural rights (otherwise, overthrow is justified). This is social contract theory.
-Why similar to the Bill of Rights?			Limits on gov't power; prioritizes individual liberty
-taxation without representation			Many people thought that the taxes were unjust because the colonists had no representation in British government
+The writer and their influences			Thomas Jefferson, who strongly supported John Locke's ideas about human freedom. Humans have natural rights and can overthrow any government that doesn't respect them. This is social contract theory.
+Why similar to the Bill of Rights?			Both provide a protection of individual liberty
+taxation without representation			The idea that the British taxing the Americans is unfair because in the British government, there is no representation of American colonists.
 Thomas Paine-			Published Common Sense (very persuasive)
 Sugar and Stamp Acts-			tax foreign molasses and printed material.
 Quartering Act-			requires colonists to house and feed British soldiers.
@@ -56,30 +52,24 @@ Why did the Americans win the Revolutionary War?			familiar land, France foreign
 ## Articles of Confederation
 
 • Why was this popular?			Americans distrusted central strong government due to bad experiences with Britain
-[MINUS]			states had virtually all the power, which was problematic (army support) (lack of federal law enforcement)
-[PLUS]			It provided a system for governing the Western territories and eventually admit them to the Union as new states.
-States had the power to 			tax, print money, and control trade
+[MINUS]			Because states were so overpowered (e.g., full control of interstate and foreign commerce; taxes), there was no way for the federal government to fund an army (taxes) or enforce national laws.
+[PLUS]			The Articles of Confederation set out a good plan for northwestern territories to be admitted as states (e.g., the 60,000 person rule).
 
 ## Constitutional Convention
 
-Goal?			correct the weaknesses of the Articles of Confederation
+Constitutional Convention-			an urgent meeting to figure out a new Constitution to supersede the Articles of Confederation
 • Shays’ Rebellion (1786)- Significant because it			Exposed the need for a stronger national government
-Great Compromise			states like New Jersey wanted equal representation per state in Congress; states like Virginia wanted representation based on population; the result was that one house would be based on population (House of Representatives) and the other house would have equal representation for all states (Senate).
-• Three-Fifths Compromise- 			States with high slave populations wanted high representation in the House of Representatives; in the end, slaves were counted as 3/5 a person for representation purposes
+Great Compromise			the introduction of a bicameral legislature {i.e., states like New Jersey wanted equal representation per state in Congress; states like Virginia wanted representation based on population; the result was that one house would be based on population (House of Representatives) and the other house would have equal representation for all states (Senate)}
+• Three-Fifths Compromise- 			three-fifths representation for slaves: the main controversy was that counting a slave as a full person would give certain slave states oversized representation in the House of Representatives; in the end, slaves were counted as 3/5 a person
 • Other Major Compromises- 			Slave Trade, Election of President.
 
-U.S. Constitution vs. Articles of Confederation [LIST 2]
-
-Congress was given sole control over interstate and foreign commerce
-Federal government could collect taxes
-
-Similarities [LIST 2]
+Similarities between Constitution and Articles of Confederation [LIST 2]
 
 Both provided a national legislature (lawmaking body).
 Both provided a way for states to cooperate.
 
 The Federalists published the			 Federalist Papers which encouraged ratification of the Constitution. 
-The Anti-Federalists Only agreed to ratify after the addition of 			the Bill of Rights to the Constitution.
+The Anti-Federalists agreed to ratify only after the compromise of adding 			the Bill of Rights to the Constitution.
 
 Bill of Rights, Unreasonable Search and Seizure- 			...This amendment was put in because the British government used writs of assistance against American merchants during the colonial/Revolutionary War era.
 
@@ -89,14 +79,14 @@ John Peter Zenger			The governor of New York arrested him for publishing critici
 
 Baron de Montesquieu		checks and balances; three branches of government
 The most essential feature of a democracy is			free and open elections
-Republican Government		representatives elected by the people
+Republican Government		the people elect representatives who serve them in government
 
 Fully explain Federalism [LIST 4]
 
-Federalism is a division of powers between the states and the federal government.
+Federalism is a way to divide powers between federal and state.
 Reserved Powers were only for the states. e.g., public education
 Concurrent Powers were split between the two. e.g., taxation
-Delegated Powers were only for the federal government. e.g, war, printing currency, interstate commerce
+Delegated Powers were only for the federal government. e.g, interstate commerce, war
 
 ## Structure of the Federal Government
 
@@ -108,14 +98,8 @@ Fully explain Presidential roles [LIST 4]
 State of the Union: an annual speech about the general condition of the nation
 
 Marbury v. Madison			judicial review
-
-Checks & Balances [LIST 4]
-
-impeachment
-veto
-judicial review
-Senate must ratify presidential treaties and approve presidential Supreme Court appointments
-
+What is a veto?
+What is impeachment?
 Elastic clause			Congress can pass legislation to meet its "necessary and proper" duties as listed in the constitution
 
 Examples of Unwritten Constitution [LIST 2]
@@ -125,6 +109,11 @@ political parties
 
 ## George Washington
 
-Why the Proclamation of Neutrality?			thought that the US needed time to economically and militarily develop, so participating in European affairs is not a good idea
-• Whiskey Rebellion			Western Pennsylvania revolt against new whiskey taxes, Washington used federal troops to suppress the rebellion, suggesting that the federal government intended to enforce federal laws.
-• Farewell Address- Washington urges the U.S. to 			avoid European conflicts/alliances
+Whiskey Rebellion			A group of Western Pennsylvania farmers who disputed the whiskey tax (their livelihood was growing whiskey, probably because their remote location made shipping heavier goods like grain unaffordable). They ended up military revolting but the federal government sent in troops to stop it very quickly. This was the first instance of the federal government really enforcing its new laws.
+
+why neutrality?			The US needed to economically and militarily develop before participating in major European wars/alliances
+
+Examples of neutrality [LIST 2]
+
+Farewell Address
+Proclamation of Neutrality			said that the US would be neutral between Britain and France
