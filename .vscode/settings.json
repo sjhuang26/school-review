@@ -1,7 +1,7 @@
 {
     "[plaintext]": {
         "editor.insertSpaces": false,
-        "editor.tabSize": 16,
+        "editor.tabSize": 2,
         "editor.wordWrap": "on"
     }
 }
