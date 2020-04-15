@@ -148,6 +148,8 @@ What is a veto?
 What is impeachment?
 Elastic clause
 	Congress can pass legislation to meet its "necessary and proper" duties as listed in the constitution
+Admission to the Union Clause
+	Congress is given power to admit new states to the Union
 
 Examples of Unwritten Constitution [LIST 2]
 	presidential cabinet
@@ -161,6 +163,7 @@ Whiskey Rebellion
 why neutrality?
 	The US needed to economically and militarily develop before participating in major European wars/alliances
 
-Examples of neutrality [LIST 2]
+Examples of neutrality [LIST 3]
 	Farewell Address
 	Proclamation of Neutrality: said that the US would be neutral between Britain and France
+	French Revolutionary Wars
