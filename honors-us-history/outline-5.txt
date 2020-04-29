@@ -20,8 +20,11 @@ League of Nations
 Washington Naval Conferences
 Kellog-Briand Pact
 
-Why does the US refuse to join the League of Nations?
-	they don't want to be dragged into another world war
+major effect of Washington Naval Conferences?
+	Japan agrees to limit the size of their navy
+
+Why does the US refuse to join the League of Nations and what was the effect?
+	isolationism; they didn't want to be involved in global conflicts; this decreased the effectiveness of the League of Nations in addressing Germany and Japan aggression
 
 Bolshevik Revolution (1917)
 	Russia is taken over by a Communist government; leads to Red Scare in the US (severe immigration quotas from Europe, Sacco and Vanzetti Trial (widely regarded as biased against the immigrants))
@@ -101,3 +104,6 @@ Securities and Exchange Commission (SEC)-
 	legalized collective bargaining which was very good for unions
 New Deal CONS
 	use of deficit spending that raised national debt; "many historians say that WWII ended the Great Depression, rather than the New Deal"
+
+Smoot-Hawley Tariff (US)
+	good example of how protectionism can go wrong; tariffs on foreign goods lead to retaliatory tariffs by other countries, lengthening the Great Depression
