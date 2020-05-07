@@ -1,0 +1,8 @@
+What is a wave?
+	A disturbance that propagates through space,
+	transferring energy but not mass.
+What is a pulse?
+	A single disturbance.
+What is the wave classification?
+	Mechanical (needs material), electromagnetic
+	Transverse, Longitudinal
