@@ -393,6 +393,31 @@ tone of resolve
 X is determined for Y
 	"Gandhi is determined for ... the negotiation of India's freedom"
 		freedom
+moving towards the resolution of X
+	X=gender equality
+		equality
+the author proposes X
+	X=Indian independence
+		independence
+particularly vivid and sensory imagery
+	"dry and parched surface ... even the bushes smelt unpleasantly"
+		dry
+ethos = shared moral ideals
+	patriotism as ethos
+		patriotism
+pathos = feeling of responsibility
+	responsibility to country
+		country
+logos = analysis of experience
+	"lamp of experience"
+		lamp
+using words to show respect
+	"gentlemen" "sir" "Mr. President" etc.
+		sir
+logos = parallelism
+	"we have ... we have ..." -- the idea that we've tried everything and now there's only one option left
+		we have
+
 
 Thesis
 	defensible
@@ -447,3 +472,77 @@ Rhetorical Problem / Rhetorical Strategy / Rhetorical Solution
 	spend a lot of time talking about the problem
 meme idea of rubric
 	The grader "remembers" what is useful.
+
+While Gandhi grounds his letter in
+reality, he also deftly employs hypothetical
+statements as he presents his argument to Lord
+Irwin. While others would suggest that there is no
+path forward for Britain India to resolve their
+disputes, Gandhi challenges this notion, pondering,
+‘if the British commerce with India is purified of
+greed, you will have no difficulty in recognizing our
+independence’ (ll 32-35). His statement is not as
+much a hypothetical thought exercised as it is an
+establishment for a condition to be met in order for
+conflict to be resolved; Gandhi’s message rings clear:
+Britain need to reduce its greed.
+
+CR (Chain of Reasoning): Gandhi challenges Irwin's belief that peacefully resolving the dispute is impossible.
+
+RD (Rhetorical Device): At one point, Gandhi uses the device of hypothetical reasoning -- that if "British commerce" is "purified of greed" then Britain will recognize "independence" with "no difficulty."
+
+RS (Rhetorical Situation): Both Gandhi and Irwin virtually certainly believe (through common sense, as well as through experience in formal negotiations) that one side's greediness make negotiating far more difficult for both sides. Both people value sincerity and honesty in trying to make the ethically best decision, but Gandhi has the opinion that Irwin, along with many others in the British government, have lost touch with their own ethics due to greed.
+
+RP (Rhetorical Problem): If the negotiators for Britain commit to stop being greedy, it seems that negotiations will go much quicker and easier.
+
+RE (Resolution): Gandhi claims that if this is done, the negotiation should present "no difficulty."
+
+CR2: At some level, Gandhi uses this phrase to refine his own belief: the negotiation is possible, and  furthermore, it should be fairly easy to actualize this possibility.
+
+RD2: The notion that despite Britain's official statements, this might actually be an easy win-win situation
+
+RS2: appeals to Irwin's sense of patriotic duty to help higher officials come to a more sensible decision and help shape the future for the better.
+
+RP2: As Irwin begins to reconsider his anti-independence perspective,
+
+RE2: Gandhi provides an encouraging and optimistic voice.
+
+From Essay B: “Gandhi’s narration of his intentions
+serves the purpose of disarming hostility from Irwin
+in order to increase the receptiveness of his letter and
+ideas. Gandhi’s first sentence explains his purpose in
+‘embarking on non-violence,’ immediately opening
+the letter with his intent and assuaging any concern
+of a violent rebellion.” This passage analyzes as it
+quotes. This student quotes Gandhi, explaining the
+impact of Gandhi’s word choice.
+
+CR: Gandhi's whole movement is fundamentally based on non-violence.
+
+RD: In the first sentence, Gandhi claims that he is "embarking on non-violence," which calls attention to this fact.
+
+RS: One common ground between Irwin and Gandhi is that they share the same positive regard for attempts at non-violence.
+
+RP: However, it is difficult for Irwin and his fellow statesmen to accept Gandhi's concept of non-violent independence. In the historical context, not only is Gandhi demanding a costly concession from the British government, but he goes about it in an unprecedented way.
+
+RE: Irwin, after remembering that Gandhi's movement is non-violent, will be more open-minded towards his methods and ideas, even if hostility and ignorance still remains.
+
+From Essay A: “While civil rights advocates often
+use a personal emotion appeal underscored with
+pathos to assert the necessity of their cause, Gandhi
+does the opposite, preferring to use detached
+language, void of emotion.” The student does not fall
+into the clichéd discussion of Gandhi’s use of pathos;
+in fact, the student contemplates the text within the
+rhetorical situation to argue why Gandhi does not use
+a pathetic appeal.
+
+CR: Gandhi argues for the necessity of implementing his reform.
+
+RD: In doing so, he uses a style of detached language.
+
+RS: Gandhi is a civil rights advocate.
+
+RP: Such writers often use pathos to evoke strong emotions, but Gandhi's letter seems void of emotion.
+
+RE: Nevertheless, Gandhi's argument is successful.
